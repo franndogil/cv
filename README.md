@@ -13,6 +13,6 @@ Trabajo desde hace más de 3 años como técnico freelance en soporte y reparaci
 
 ## Enlaces útiles
 
-- [📄 Descargar CV (PDF)](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
+- [📄 Descargar CV (PDF)](https://github.com/franndogil/cv/blob/main/CURRICULUM%20VITAE%20-%20Franco%20Mat%C3%ADas%20Dogil.pdf)
 - [💼 Perfil de LinkedIn](https://www.linkedin.com/in/francomatiasdogil/)
 - [💻 Repositorio de proyectos](https://github.com/franndogil)
